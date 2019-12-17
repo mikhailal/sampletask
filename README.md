@@ -21,4 +21,7 @@
 График можно посмотреть по ссылке:
 [график](https://drive.google.com/file/d/10pc3S2oCrv5MT98ZPg1WitW7C_pSCDpx/view?usp=sharing)
 
+## Пример работы программы
+Результат работы программы можно увидеть в файле results.log
+
 
